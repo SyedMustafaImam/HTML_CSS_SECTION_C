@@ -40,7 +40,7 @@ Lecture recording: https://www.youtube.com/watch?v=Alg5ZnZgqiw
   -  Classes
   -  Ids
 - Syntax
-- MEASUREMENT UNITS
+- Measurments Units 
 - Colors
 - Background
 - Fonts
