@@ -19,4 +19,5 @@ The topics that we have covered in first lecture:
 - Tables
 - Creating layout using tables
 
+lecture Recording: https://www.youtube.com/watch?v=Alg5ZnZgqiw
 <hr>
