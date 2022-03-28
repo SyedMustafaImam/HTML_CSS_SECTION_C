@@ -1,0 +1,44 @@
+body{
+    margin:0px;
+}
+1
+
+.topnav {
+    position: fixed;
+    width: 100%;
+    background-color: rgb(23, 0, 100);
+    padding: 15px 10px;
+}
+
+.topnav  a {
+    color: white;
+    text-decoration: none;
+    float: right;
+    padding: 10px
+}
+
+.topnav a:hover{
+    color: red;
+    padding: 13px;
+    border-bottom: 3px solid red
+}
+
+.topnav a:active{
+    color: green;
+    padding: 13px;
+    border-bottom: 3px solid red
+}
+/* .topnav a:visited{
+    color: green;
+    padding: 13px;
+    border-bottom: 3px solid red
+} */
+
+#logo {
+    float: left;
+}
+
+#logo a:hover{
+    font-weight: bold
+    
+}

@@ -1,0 +1,55 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./form.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="http://localhost:3000/users/check-user" target="_parent" method="POST">
+        <div>
+            <label for="">Email:</label>
+            <input type="email" name="email">
+        </div>
+
+        <div>
+            <label for="">Password:</label>
+            <input type="password" name="password">
+        </div>
+
+        <div>
+            <select name="option" id="">
+                <option value="option1">Option 1</option>
+                <option value="option2">Option 2</option>
+                <option value="option3">Option 3</option>
+                <option value="option4">Option 4</option>
+                <option value="option5">Option 5</option>
+            </select>
+        </div>
+
+        <div>
+            <label>Gender</label>
+            <br>
+            <input type="radio" name="gender" id="" value="male">Male</input>
+            <input type="radio" name="gender" id="" value="female">Female</input>
+        </div>
+
+        <div>
+            <lable>Course</lable>
+            <br>
+            <input type="checkbox" name="course" id="" value="ITC"> ICT
+            <br>
+            <input type="checkbox" name="course" id="" value="FOP"> FOP
+            <br>
+            <input type="checkbox" name="course" id="" value="AI"> AI
+            <br>
+            <input type="checkbox" name="course" id="" value="FYP"> FYP
+        </div>
+        <button type="'submit">Login</button>
+    </form>
+</body>
+
+</html>
