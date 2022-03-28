@@ -19,7 +19,7 @@ The topics that we have covered in first lecture:
 - Tables
 - Creating layout using tables
 
-lecture Recording: https://www.youtube.com/watch?v=Alg5ZnZgqiw
+Lecture recording: https://www.youtube.com/watch?v=Alg5ZnZgqiw
 <hr>
 
 ## Lecture 2
@@ -53,7 +53,7 @@ lecture Recording: https://www.youtube.com/watch?v=Alg5ZnZgqiw
 - Dimension
 - Postioning
 
-lecture Recording: https://www.youtube.com/watch?v=Sttenpo2-O8
+Lecture recording: https://www.youtube.com/watch?v=Sttenpo2-O8
 
 <hr>
 
