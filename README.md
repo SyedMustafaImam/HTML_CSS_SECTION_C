@@ -1,4 +1,4 @@
-# HTML_CSS_SECTION_C
+# HTML/CSS SECTION C
 
 ## Lecture 1
 The topics that we have covered in first lecture:
