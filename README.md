@@ -53,7 +53,7 @@ lecture Recording: https://www.youtube.com/watch?v=Alg5ZnZgqiw
 - Dimension
 - Postioning
 
-lecture Recording:
+lecture Recording: https://www.youtube.com/watch?v=Sttenpo2-O8
 
 <hr>
 
