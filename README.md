@@ -1,4 +1,4 @@
-# HTML/CSS SECTION C
+# HTML/CSS Crash Course 
 
 ## Lecture 1
 The topics that we have covered in first lecture:
