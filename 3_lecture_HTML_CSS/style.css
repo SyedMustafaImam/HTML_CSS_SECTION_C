@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  font-family: 'Vazirmatn', sans-serif;
+  background-color: rgb(0,0,61)
+}
+/* Navbar */
+nav {
+  position: fixed;
+  width: 100%;
+  background-color: rgb(14,1,92);
+  z-index: 1;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  float: right;
+  font-size: 18px;
+}
+
+#nav-logo {
+  float: left;
+  padding-top: 15px;
+  padding-left: 80px;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 20px;
+}
+
+.nav-items a {
+  padding: 15px 15px;
+}
+
+.nav-items a:hover {
+    border-bottom: 6px solid red;
+    color: red;
+  }
+
+  .active {
+      background-color: red;
+      color:white;
+  }
+  .active  {
+    background-color:rgb(255, 255, 255);
+    color:red;
+}
+
+/* Aside */
+aside{
+    position: absolute;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color:rgb(15,15,92);
+    width: 20%;
+    box-shadow:-5px 0px 30px 1px black
+}
+
+aside ul li  {
+    padding: 5px 10px
+    
+}
+
+aside ul li a {
+    color:white;
+    text-decoration:none;
+}
+
+aside ul li a:hover {
+    color:red;
+    text-decoration:none;
+}
+/* Container  */
+
+.container {
+    padding-top:120px;
+    padding-left: 22%;
+    margin:auto;
+    width:70%;
+}
+
+/* Hero */
+.hero{
+    background-color:#000000;
+    color:#FFFF;
+    width:75%;
+    margin:auto;
+    padding:20px 50px;
+    border : 3px dotted red;
+    border-radius:15px
+}
+
+.hero h1{
+    font-size:35px;
+}
+.hero p{
+    font-size:22px;
+    text-align: justify;
+}
+/* Boxes */
+.content-boxes{
+    margin-top:50px;
+    float:left;
+    background-color: rgba(11, 0, 98, 0.504);
+    padding:15px;
+    width:25%;
+    margin-left:50px;
+    border-radius: 15px;
+    box-shadow:-5px 0px 30px 1px black
+   
+}
+
+.content-boxes p, h3{
+color:aliceblue;
+text-align: center;
+font-size:20px;
+}
+
+
+/* Footer */
+
+  footer {
+      position: fixed;
+      width: 100%;
+      background-color:rgb(14,1,92);
+      color: white;
+      text-align: center;
+      font-size: 20px;
+      bottom: 0;
+      padding: 20px;
+
+  }
