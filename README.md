@@ -59,7 +59,7 @@ Lecture recording: https://www.youtube.com/watch?v=Sttenpo2-O8
 
 ## Lecture 3
 
-In lecture 3 all the concepts of __HTML__ and __CSS__ which ware taught previously were applied and implemented. 
+In lecture 3 all the concepts of __HTML__ and __CSS__ which were taught previously are applied and implemented. 
 
 
 
@@ -76,4 +76,4 @@ We have also covered Bootstrap and its:
 - Components
 - Forms 
 
-Lecture recording: 
+Lecture recording: https://www.youtube.com/watch?v=y9yRXp2IENk
