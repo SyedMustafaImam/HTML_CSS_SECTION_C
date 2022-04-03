@@ -19,4 +19,4 @@ We have also covered Bootstrap and its:
 - Components
 - Forms 
 
-Lecture recording: 
+Lecture recording: https://www.youtube.com/watch?v=y9yRXp2IENk
